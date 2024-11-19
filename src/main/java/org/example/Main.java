@@ -16,5 +16,6 @@ public class Main {
 
         Application application = new Application();
         System.out.println(application.output("ola"));
+        System.out.println("BlaBlaBla");
     }
 }
